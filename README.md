@@ -25,21 +25,12 @@
 
   Run node index.js in your terminal and respond to the prompts accordingly.
 
-  ## Credits 
-
-  NA
-
-  NA
+  [SVG Logo Maker Demo.webm](https://github.com/hansl40721/svg-logo-maker/assets/123116520/6399fadf-fa4e-4dab-b497-3fe0674772cd)
 
   ## License
 
   None
 
-  
-
-  ## Tests
-
-  NA
 
   ## Questions
   If you have any questions or concerns about this project, reach out using either of the provided methods.
